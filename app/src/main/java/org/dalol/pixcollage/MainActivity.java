@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final int RESULT_LOAD_IMAGE = 1000;
     private static final int REQUEST_IMAGE_CAPTURE = 1;
+	
     private ImageView imageView;
     private ArtDrawable artDrawable;
 
